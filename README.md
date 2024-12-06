@@ -1,4 +1,4 @@
-![Logo](https://philippineenglishvocabulary.com/assets/images/51slSGk.png)
+![Logo](https://static.goldenmindsbulacan.com/assets/images/dev/44122asdas.png)
 
 
 # About
@@ -24,4 +24,4 @@ For access to the Philippine-English Vocabulary, [please visit here.](https://ph
 
 ## License
 
-[MIT](https://github.com/javecilla/COMISSION_PH_EN_VOCABULARY/blob/main/LICENSE)
+[MIT](https://github.com/javecilla/Philippine_English_Vocabulary/blob/main/LICENSE)
